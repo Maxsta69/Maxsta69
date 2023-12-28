@@ -1,4 +1,4 @@
-### - 👋 My name is Max Bui.
+### - 👋 Hello! My name is Max Bui.
 ###
 ### - 👀 I'm in the Software Engineering Program at Carleton University.
 ###
