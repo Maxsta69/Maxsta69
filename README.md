@@ -4,7 +4,10 @@
 ###
 ### - 👯 I'm looking for an Internship for Summer 2024. Availability is from May - September.
 ###
-### - 📫 How To Reach Me: School Email: maxbui@cmail.carleton.ca // Personal Email: maxbui2121@gmail.com // Mobile Number: (613) 501-4838
+### - 📫 How To Reach Me? 
+###       - School Email: maxbui@cmail.carleton.ca
+###       - Personal Email: maxbui2121@gmail.com
+###       - Mobile Number: (613) 501-4838
 
 <!--
 **Maxsta69/Maxsta69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
