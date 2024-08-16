@@ -1,6 +1,6 @@
 ### - 👋 Hello! My name is Max Bui.
 ###
-### - 👀 I'm in the Software Engineering Program at Carleton University.
+### - 👀 I'm in the Bachelor of Engineering in Software Engineering Program at Carleton University.
 ###
 ### - 👯 I'm looking for an Internship or Coop for Winter 2025. Availability is from January to April 2025.
 ###
