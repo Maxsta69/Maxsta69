@@ -2,7 +2,7 @@
 ###
 ### - 👀 I'm in the Software Engineering Program at Carleton University.
 ###
-### - 👯 I'm looking for an Internship for Summer 2024. Availability is from May - September.
+### - 👯 I'm looking for an Internship or Coop for Winter 2025. Availability is from January to April 2025.
 ###
 ### - 📫 How To Reach Me: School Email: maxbui@cmail.carleton.ca // Personal Email: maxbui2121@gmail.com // Mobile Number: (613) 501-4838
 
